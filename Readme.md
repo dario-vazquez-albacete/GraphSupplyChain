@@ -6,7 +6,7 @@ This project showcases a comprehensive analysis of CO2 emissions in a fictitious
 I designed a graph model representing a cheese supply chain using the Arrows app from Neo4j. The model was exported as a Cypher script and then translated into a relational database equivalent and Python with the help of ChatGPT. The challenge was to find the supply chain path that leads to the least CO2 emissions, considering both manufacturing and distribution phases.
 
 <br>
-![image info](./GraphModelCo2emissions.png)
+<img src="./GraphModelCo2Emissions.png" width=800 />
 
 ## Tools & Technologies
 
