@@ -1,0 +1,5 @@
+*.wal
+*.db
+*.duckdb
+/venv
+/__pychache__
